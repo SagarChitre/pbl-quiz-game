@@ -1,0 +1,33 @@
+body {
+    background-color: #578c49;
+    font-family: "Roboto", sans-serif;
+    color: #000;
+    background-image: url("https://airbus-h.assetsadobe2.com/is/image/content/dam/channel-specific/website-/products-and-services/space/satellite-navigation/web.space.satnav.6.JPG?wid=1920&fit=fit,1&qlt=85,0");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Helvetica";
+    color: #ccffbd;
+    margin-top: 60px;
+    
+}
+
+.start-btn {
+    font-size: 20px;
+    margin-top: 150px;
+    font-family: "Monaco";
+    margin-top: 200px;
+}
+
+button{
+    width: 250px;
+    height: 60px;
+    border-radius: 23px;
+    margin: 40px 20px 25px 20px;
+    font-size: 15px;
+    background-color:#fff;
+}
